@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-tutorial",
+  "version": "1.0.0",
+  "description": "I am revisiting the nodejs basics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Dilshad Ahmad",
+  "license": "ISC"
+}
